@@ -2,7 +2,7 @@
 
 ## [DEPRECATED]
 
-See [Jcd.Threading](https://github.com/jason-c-daniels/Jcd.Tasks) for the latest code.
+See [Jcd.Threading](https://github.com/jason-c-daniels/Jcd.Threading) for the latest code.
 
 A *netstandard2.0* library that provides utility classes to help with managing `Task`s,
 creating custom `TaskScheduler`s, and creating thread safe value access.
