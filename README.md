@@ -1,6 +1,10 @@
 # Jcd.Tasks
 
+## [ARCHIVED]
+This repository is now ARCHIVED.
+
 ## [DEPRECATED]
+The code from this project has been deprecated.
 
 See [Jcd.Threading](https://github.com/jason-c-daniels/Jcd.Threading) for the latest code.
 
